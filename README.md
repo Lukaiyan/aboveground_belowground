@@ -10,7 +10,7 @@
 
 **taproot_16_new.txt**      #taproot length of some progeny were recorded at 16 time points
 
-**lateral_root_data.txt**   #lateral root length recorded at 14 time points
+**lateral_root_data.txt**   #lateral root length and number recorded at 14 time points
 
 
  
